@@ -26,7 +26,7 @@ Preferred communication style: Simple, everyday language.
 - **Drizzle ORM**: Type-safe database toolkit configured for PostgreSQL
 - **PostgreSQL**: Primary database (configured but using in-memory storage currently)
 - **Schema-first design**: Shared TypeScript schemas between frontend and backend
-- **Migration support**: Database versioning with Drizzle Kit
+- **Migration support**: Database versioning using Drizzle Kit for schema migrations
 
 ## Authentication & Sessions
 - **Session-based cart**: Browser localStorage for cart session management
@@ -57,3 +57,15 @@ Preferred communication style: Simple, everyday language.
 - **Service Worker**: Offline capability and caching strategy
 - **Web App Manifest**: Native app-like experience on mobile devices
 - **Installation prompts**: PWA installation detection and prompts
+
+# Environment Variables
+
+The project uses environment variables for configuration. Make sure to set the following variables in your Replit environment or `.env` files as needed:
+
+- `DATABASE_URL` — PostgreSQL connection string (Neon or local)
+- `STRIPE_SECRET_KEY` — Stripe API secret key
+- `STRIPE_WEBHOOK_SECRET` — Stripe webhook signing secret
+- `PORT` — Port for the backend server (default: 3000)
+- `NODE_ENV` — Set to `development` or `production`
+
+Refer to the README or deployment docs for more details.
