@@ -4,7 +4,7 @@
 
 THETHA is a comprehensive electronics platform that combines social networking, e-commerce marketplace, repair services, and custom PC building into one unified experience. Built with React, TypeScript, and Supabase, it offers users a complete ecosystem for all their electronics needs.
 
-## Key Features!
+## Key Features
 
 ### Repair Services
 
