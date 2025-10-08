@@ -86,7 +86,7 @@ THETHA is a comprehensive electronics platform that combines social networking, 
 
 ## Project Structure
 
-```cmd
+```text
 src/
 ├── components/          # Reusable UI components
 │   ├── ui/             # Base UI components (Radix + custom)
