@@ -261,7 +261,3 @@ For support and inquiries:
 - Styled with [TailwindCSS](https://tailwindcss.com/)
 - Backend powered by [Supabase](https://supabase.com/)
 - Icons by [Lucide](https://lucide.dev/)
-
----
-
-**THETHA** - Your complete electronics hub for repairs, shopping, and community!
