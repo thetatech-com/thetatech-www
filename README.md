@@ -251,7 +251,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For support and inquiries:
 
 - Email: [support@thethatech.com](mailto:support@thethatech.com)
-- Phone: [+1 (555) 123-4567](tel:+15551234567)
 - Website: [https://thethatech.com](https://thethatech.com)
 
 ## Acknowledgments
